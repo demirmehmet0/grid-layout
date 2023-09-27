@@ -1,2 +1,1 @@
-# grid-layout
-Created with CodeSandbox
+Integrate the project with redux
